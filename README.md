@@ -1,4 +1,4 @@
-# GoogleFormsRaider
+# Google Forms Raider
 Python script for raiding Google forms
 
 The author of this repository:
