@@ -11,4 +11,6 @@ By using this script you fully agree that:
 - You are solely responsible for your actions
 - You will comply with Google’s Terms of Service and all applicable laws
 
+Please, if you use this script, do credit the source
+
 Made for learning purposes.
